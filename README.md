@@ -128,7 +128,7 @@ Run the notebooks in order:
 5. `05_logistic_map.ipynb` - Train logistic regression models
 6. `06_retrieval_eval.ipynb` - Evaluate retrieval and advice quality
 
-## 📊 Pipeline
+##  Pipeline
 
 The system processes queries through the following pipeline:
 
