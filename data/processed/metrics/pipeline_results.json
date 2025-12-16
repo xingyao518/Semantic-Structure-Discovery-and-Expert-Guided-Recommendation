@@ -1,0 +1,66 @@
+{
+  "start_time": "2025-12-03T00:01:06.449660",
+  "steps": {
+    "preprocessing": {
+      "status": "success",
+      "num_documents": 500,
+      "vocab_size": 2650,
+      "avg_doc_length": 32.452
+    },
+    "lda_gibbs": {
+      "status": "success",
+      "metrics": {
+        "num_topics": 10,
+        "num_documents": 500,
+        "vocab_size": 2650,
+        "alpha": 0.1,
+        "beta": 0.01
+      }
+    },
+    "lda_vi": {
+      "status": "success",
+      "metrics": {
+        "num_topics": 10,
+        "num_documents": 500,
+        "vocab_size": 2650,
+        "final_elbo": -7409.648346973057,
+        "num_iterations": 20
+      }
+    },
+    "mixture": {
+      "status": "success",
+      "metrics": {
+        "num_experts": 5,
+        "num_samples": 100,
+        "expert_distribution": [
+          20,
+          24,
+          16,
+          22,
+          18
+        ]
+      }
+    },
+    "logistic": {
+      "status": "success",
+      "metrics": {
+        "accuracy": 0.62,
+        "precision": 0.3333333333333333,
+        "recall": 0.05555555555555555,
+        "f1_score": 0.09523809523809525,
+        "train_size": 400,
+        "test_size": 100
+      }
+    },
+    "retrieval": {
+      "status": "success",
+      "metrics": {
+        "num_tfidf_results": 10,
+        "num_lda_results": 10,
+        "top_tfidf_score": 0.346857696545141,
+        "top_lda_score": 1.0
+      }
+    }
+  },
+  "end_time": "2025-12-03T00:03:50.316146"
+}

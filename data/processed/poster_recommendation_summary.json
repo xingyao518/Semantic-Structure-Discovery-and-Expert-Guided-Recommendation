@@ -1,0 +1,94 @@
+{
+  "injury_recovery": {
+    "intent_display": "Injury Recovery",
+    "description": "Recommendations for injury prevention and recovery",
+    "mapped_topics": [
+      2
+    ],
+    "mapped_experts": [
+      0,
+      3
+    ],
+    "top_2_recommendations": [
+      {
+        "rank": 1,
+        "document_id": 3703,
+        "relevance_score": 0.964,
+        "dominant_topic": 2,
+        "dominant_expert": 0,
+        "snippet": "i don t want to risk injuring my knees or ankles ironically knees over toes is really great at build..."
+      },
+      {
+        "rank": 2,
+        "document_id": 1274,
+        "relevance_score": 0.959,
+        "dominant_topic": 2,
+        "dominant_expert": 0,
+        "snippet": "i think one of the issues with posing is that actively working with a posing coach in person is goin..."
+      }
+    ],
+    "explanation": "Documents filtered by expert 0 and ranked by topic relevance"
+  },
+  "beginner_guidance": {
+    "intent_display": "Beginner Guidance",
+    "description": "Getting started with running",
+    "mapped_topics": [
+      3,
+      8
+    ],
+    "mapped_experts": [
+      2,
+      1
+    ],
+    "top_2_recommendations": [
+      {
+        "rank": 1,
+        "document_id": 1471,
+        "relevance_score": 0.98,
+        "dominant_topic": 3,
+        "dominant_expert": 0,
+        "snippet": "531 for beginners sounds like a good spot for you thefitness wiki routines 5 3 1 for beginners thefi..."
+      },
+      {
+        "rank": 2,
+        "document_id": 4208,
+        "relevance_score": 0.98,
+        "dominant_topic": 3,
+        "dominant_expert": 2,
+        "snippet": "well one way of going about things is to follow a proper running program like hal higdon s stuff you..."
+      }
+    ],
+    "explanation": "Documents filtered by expert 2 and ranked by topic relevance"
+  },
+  "nutrition": {
+    "intent_display": "Nutrition",
+    "description": "Nutrition and dietary advice for runners",
+    "mapped_topics": [
+      0,
+      1
+    ],
+    "mapped_experts": [
+      2,
+      1
+    ],
+    "top_2_recommendations": [
+      {
+        "rank": 1,
+        "document_id": 2234,
+        "relevance_score": 0.976,
+        "dominant_topic": 0,
+        "dominant_expert": 2,
+        "snippet": "i see and thanks for commenting and i ll change it up every four weeks i assume the workouts will be..."
+      },
+      {
+        "rank": 2,
+        "document_id": 1371,
+        "relevance_score": 0.97,
+        "dominant_topic": 0,
+        "dominant_expert": 0,
+        "snippet": "implement some good pre workout routines that makes you mentally ready personally i drink coffee and..."
+      }
+    ],
+    "explanation": "Documents filtered by expert 2 and ranked by topic relevance"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "tfidf": {
+    "precision@5": 0.56,
+    "precision@10": 0.52,
+    "avg_score": 0.2782317182586609
+  },
+  "lda": {
+    "precision@5": 0.6,
+    "precision@10": 0.4,
+    "avg_score": 0.9232394441746067
+  },
+  "lda_kl": {
+    "precision@5": 0.6,
+    "precision@10": 0.4,
+    "avg_score": 0.9677594713836554
+  }
+}

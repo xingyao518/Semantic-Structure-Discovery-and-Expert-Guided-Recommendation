@@ -1,0 +1,337 @@
+{
+  "injury_recovery": {
+    "description": "Recommendations for injury prevention and recovery",
+    "mapped_topics": [
+      2
+    ],
+    "mapped_experts": [
+      0,
+      3
+    ],
+    "recommendations": [
+      {
+        "rank": 1,
+        "document_id": 3703,
+        "score": 0.9639903261061866,
+        "dominant_topic": 2,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: time, work, like",
+        "text_snippet": "i don t want to risk injuring my knees or ankles ironically knees over toes is really great at building up your knee and ankle resilience i do deep knees as far forward with my foot flat lunges all th..."
+      },
+      {
+        "rank": 2,
+        "document_id": 1274,
+        "score": 0.9590827731010115,
+        "dominant_topic": 2,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: time, work, like",
+        "text_snippet": "i think one of the issues with posing is that actively working with a posing coach in person is going to be a lot better than just watching videos online if you want to compete it s absolutely somethi..."
+      },
+      {
+        "rank": 3,
+        "document_id": 1793,
+        "score": 0.9549717826585978,
+        "dominant_topic": 2,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: time, work, like",
+        "text_snippet": "i already have special exercises to do for that plus going to the gym helps me to strengthen all the muscles holding my spine so it doesn t move further i was just thinking it might be my form that s ..."
+      },
+      {
+        "rank": 4,
+        "document_id": 4674,
+        "score": 0.9499904881906699,
+        "dominant_topic": 2,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: time, work, like",
+        "text_snippet": "perfect then i ll try that that makes sense and is even better i know i ll have more success doing it from my knees just need to make sure i m not able to rest on my stomach lol thank you..."
+      },
+      {
+        "rank": 5,
+        "document_id": 2460,
+        "score": 0.9499823307258582,
+        "dominant_topic": 2,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: time, work, like",
+        "text_snippet": "nah haha i started off with the bar to get a feel for the exercise and then i started adding smaller weights but then i thought how do i know when to add more if i want to prevent injury..."
+      }
+    ]
+  },
+  "endurance_training": {
+    "description": "Long-distance running and endurance building",
+    "mapped_topics": [],
+    "mapped_experts": [
+      0
+    ],
+    "recommendations": [
+      {
+        "rank": 1,
+        "document_id": 4999,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "belts are not safety devices and shouldn t be used with the intention of preventing injury they simply allow the person to lift more weight by increasing intra abdominal pressure..."
+      },
+      {
+        "rank": 2,
+        "document_id": 1668,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "i have fallen off the wagon cardio wise over the winter largely because i was sick pretty much the entire winter i was shockingly surprised how easy it was to get my gains back the first week was roug..."
+      },
+      {
+        "rank": 3,
+        "document_id": 1637,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "if those are your two options i d say that s sufficient time to recover from one to still effectively do the other one later so ultimately i think it will come down to personal preference i have a bud..."
+      },
+      {
+        "rank": 4,
+        "document_id": 1640,
+        "score": 1.0,
+        "dominant_topic": 7,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "what season do you do a sport if you do normally your coach would be telling you what to do in the off season since training for wrestling is going to be different than training for distance running..."
+      },
+      {
+        "rank": 5,
+        "document_id": 1641,
+        "score": 1.0,
+        "dominant_topic": 1,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "the other comments posted good suggestions bit it could also be a diet issue make sure to eat the right stuff before your workout..."
+      }
+    ]
+  },
+  "nutrition": {
+    "description": "Nutrition and dietary advice for runners",
+    "mapped_topics": [
+      0,
+      1
+    ],
+    "mapped_experts": [
+      2,
+      1
+    ],
+    "recommendations": [
+      {
+        "rank": 1,
+        "document_id": 2234,
+        "score": 0.9757526335279547,
+        "dominant_topic": 0,
+        "dominant_expert": 2,
+        "explanation": "Relevant topics: day, workout, weight, fat, eat",
+        "text_snippet": "i see and thanks for commenting and i ll change it up every four weeks i assume the workouts will be full body so would it be detrimental to do four workouts a week on monday tuesday thursday friday a..."
+      },
+      {
+        "rank": 2,
+        "document_id": 1371,
+        "score": 0.9703637874655031,
+        "dominant_topic": 0,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: day, workout, weight, fat, eat",
+        "text_snippet": "implement some good pre workout routines that makes you mentally ready personally i drink coffee and do some stretching like 30 minutes before i leave my house when leaving the car i motivate myself b..."
+      },
+      {
+        "rank": 3,
+        "document_id": 4608,
+        "score": 0.9666597935719848,
+        "dominant_topic": 1,
+        "dominant_expert": 1,
+        "explanation": "Relevant topics: day, workout, weight, fat, eat",
+        "text_snippet": "found an article where she says she does 45 minutes of exercise yoga or cardio a day so it s probably the combination or eating low calorie and doing daily cardio that keeps her lean she does look lik..."
+      },
+      {
+        "rank": 4,
+        "document_id": 562,
+        "score": 0.9652105477142168,
+        "dominant_topic": 0,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: day, workout, weight, fat, eat",
+        "text_snippet": "i notice a big difference between morning and night sessions as well as less food days vs more food i usually workout after work and if i try to do a session in the morning everything feels much much ..."
+      },
+      {
+        "rank": 5,
+        "document_id": 4950,
+        "score": 0.9618742240710741,
+        "dominant_topic": 0,
+        "dominant_expert": 1,
+        "explanation": "Relevant topics: day, workout, weight, fat, eat",
+        "text_snippet": "what were your bulk calories your macros look fine but you ll need to track the scale changes to know if your total calorie intake is creating a deficit this sounds like a healthy amount of cardio..."
+      }
+    ]
+  },
+  "running_form": {
+    "description": "Running technique and form improvement",
+    "mapped_topics": [],
+    "mapped_experts": [
+      0
+    ],
+    "recommendations": [
+      {
+        "rank": 1,
+        "document_id": 4999,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "belts are not safety devices and shouldn t be used with the intention of preventing injury they simply allow the person to lift more weight by increasing intra abdominal pressure..."
+      },
+      {
+        "rank": 2,
+        "document_id": 1668,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "i have fallen off the wagon cardio wise over the winter largely because i was sick pretty much the entire winter i was shockingly surprised how easy it was to get my gains back the first week was roug..."
+      },
+      {
+        "rank": 3,
+        "document_id": 1637,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "if those are your two options i d say that s sufficient time to recover from one to still effectively do the other one later so ultimately i think it will come down to personal preference i have a bud..."
+      },
+      {
+        "rank": 4,
+        "document_id": 1640,
+        "score": 1.0,
+        "dominant_topic": 7,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "what season do you do a sport if you do normally your coach would be telling you what to do in the off season since training for wrestling is going to be different than training for distance running..."
+      },
+      {
+        "rank": 5,
+        "document_id": 1641,
+        "score": 1.0,
+        "dominant_topic": 1,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "the other comments posted good suggestions bit it could also be a diet issue make sure to eat the right stuff before your workout..."
+      }
+    ]
+  },
+  "beginner_guidance": {
+    "description": "Getting started with running",
+    "mapped_topics": [
+      3,
+      8
+    ],
+    "mapped_experts": [
+      2,
+      1
+    ],
+    "recommendations": [
+      {
+        "rank": 1,
+        "document_id": 1471,
+        "score": 0.9804862234563093,
+        "dominant_topic": 3,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: muscle, week, train, weight, program",
+        "text_snippet": "531 for beginners sounds like a good spot for you thefitness wiki routines 5 3 1 for beginners thefitness wiki routines 5 3 1 for beginners unless you are brand new to barbell training in which case i..."
+      },
+      {
+        "rank": 2,
+        "document_id": 4208,
+        "score": 0.9804825668404111,
+        "dominant_topic": 3,
+        "dominant_expert": 2,
+        "explanation": "Relevant topics: muscle, week, train, weight, program",
+        "text_snippet": "well one way of going about things is to follow a proper running program like hal higdon s stuff you can do a progression of something like the novice 5k novice base intermediate base advanced base th..."
+      },
+      {
+        "rank": 3,
+        "document_id": 3066,
+        "score": 0.9777753823204707,
+        "dominant_topic": 3,
+        "dominant_expert": 2,
+        "explanation": "Relevant topics: muscle, week, train, weight, program",
+        "text_snippet": "the basic beginner routine is this one thefitness wiki routines r fitness basic beginner routine thefitness wiki routines r fitness basic beginner routine gzclp is a novice or beginner routine though ..."
+      },
+      {
+        "rank": 4,
+        "document_id": 4453,
+        "score": 0.9777723801782887,
+        "dominant_topic": 3,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: muscle, week, train, weight, program",
+        "text_snippet": "i definitely recommend fsl i have a spreadsheet on liftvault that is made from mythical s mass building program but you can change the supplemental work to fsl percentages liftvault com programs stren..."
+      },
+      {
+        "rank": 5,
+        "document_id": 3425,
+        "score": 0.9723977757991782,
+        "dominant_topic": 8,
+        "dominant_expert": 0,
+        "explanation": "Relevant topics: muscle, week, train, weight, program",
+        "text_snippet": "i m doing the basic gzclp program squats chest pulldowns then deads shoulderpress rows i would like to think i am trying to put in like 80 into those workouts but tbh i m not so sure i guess i just dr..."
+      }
+    ]
+  },
+  "race_preparation": {
+    "description": "Race preparation and competition strategies",
+    "mapped_topics": [],
+    "mapped_experts": [
+      0
+    ],
+    "recommendations": [
+      {
+        "rank": 1,
+        "document_id": 4999,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "belts are not safety devices and shouldn t be used with the intention of preventing injury they simply allow the person to lift more weight by increasing intra abdominal pressure..."
+      },
+      {
+        "rank": 2,
+        "document_id": 1668,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "i have fallen off the wagon cardio wise over the winter largely because i was sick pretty much the entire winter i was shockingly surprised how easy it was to get my gains back the first week was roug..."
+      },
+      {
+        "rank": 3,
+        "document_id": 1637,
+        "score": 1.0,
+        "dominant_topic": 5,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "if those are your two options i d say that s sufficient time to recover from one to still effectively do the other one later so ultimately i think it will come down to personal preference i have a bud..."
+      },
+      {
+        "rank": 4,
+        "document_id": 1640,
+        "score": 1.0,
+        "dominant_topic": 7,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "what season do you do a sport if you do normally your coach would be telling you what to do in the off season since training for wrestling is going to be different than training for distance running..."
+      },
+      {
+        "rank": 5,
+        "document_id": 1641,
+        "score": 1.0,
+        "dominant_topic": 1,
+        "dominant_expert": 0,
+        "explanation": "General fitness advice",
+        "text_snippet": "the other comments posted good suggestions bit it could also be a diet issue make sure to eat the right stuff before your workout..."
+      }
+    ]
+  }
+}
