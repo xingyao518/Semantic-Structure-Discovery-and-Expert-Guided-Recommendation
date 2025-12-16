@@ -1,10 +1,4 @@
-# Probabilistic Models for Personalized Running Advice
-
-A complete Python project implementing probabilistic and statistical models for generating personalized running advice. This system uses **only** probabilistic/statistical models covered in the course (Bayesian mixtures, LDA, Gibbs sampling, variational inference, matrix factorization, logistic regression with MAP) - **no deep learning or large language models**.
-
-## 📋 Project Overview
-
-This system processes running-related Q&A data and generates personalized advice using:
+##  Project Overview
 
 1. **Topic Modeling**: LDA via Gibbs sampling and Variational Inference
 2. **Bayesian Mixture-of-Experts**: Generates structured advice based on topic mixtures
@@ -12,7 +6,7 @@ This system processes running-related Q&A data and generates personalized advice
 4. **Recommendation System**: Multiple retrieval methods (TF-IDF, LDA-topic similarity, matrix factorization)
 5. **Evaluation Modules**: Compliance checks, relevance metrics, and qualitative scoring
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 .
@@ -52,11 +46,9 @@ This system processes running-related Q&A data and generates personalized advice
 └── README.md
 ```
 
-## 🧠 Statistical Models Used
+##  Statistical Models Used
 
 ### 1. Latent Dirichlet Allocation (LDA)
-
-**Two implementations:**
 
 - **Gibbs Sampling** (`lda_gibbs.py`): Collapsed Gibbs sampler
   - Mathematical formulation: `P(z_{dn} = k | z_{-dn}, w) ∝ (n_{dk} + α) * (n_{kv} + β) / (n_k + V*β)`
@@ -89,7 +81,6 @@ Three retrieval methods:
 2. **LDA-topic similarity**: Hellinger distance between topic distributions
 3. **Matrix Factorization**: ALS or MAP-based factorization `R ≈ U V^T`
 
-## 🚀 Getting Started
 
 ### Installation
 
@@ -149,7 +140,7 @@ The system processes queries through the following pipeline:
 6. **Advice Generation**: Mixture-of-experts model generates structured advice
 7. **Evaluation**: Compliance checks, relevance metrics, and qualitative scoring
 
-## ✅ Evaluation
+##  Evaluation
 
 The system includes three evaluation modules:
 
@@ -177,7 +168,7 @@ Rubric-based scoring:
 - **Personalization**: References user's situation, experience, goals
 - **Correctness**: Factually correct, follows best practices
 
-## 📊 Visualization and Evaluation
+##  Visualization and Evaluation
 
 The project includes comprehensive visualization and evaluation modules for all statistical models.
 
@@ -245,7 +236,7 @@ Extended evaluation functions:
 - **Relevance Metrics**: Topic KL distance, retrieval score summaries, method comparisons
 - **Qualitative Ratings**: Clarity, safety, personalization, and overall quality scores
 
-## 📝 Mathematical Formulations
+##  Mathematical Formulations
 
 All models include detailed mathematical formulations in their docstrings:
 
@@ -255,7 +246,7 @@ All models include detailed mathematical formulations in their docstrings:
 - **Logistic MAP**: Log-posterior, gradient, and Hessian
 - **Matrix Factorization**: ALS updates and MAP estimation
 
-## 🔧 Development
+##  Development
 
 This is a starter codebase designed for incremental development:
 
@@ -264,38 +255,8 @@ This is a starter codebase designed for incremental development:
 - Models can be trained and evaluated independently
 - Data processing pipeline is modular
 
-## 📚 Course Topics Covered
-
-This project implements models from the course:
-
-- ✅ Bayesian mixtures
-- ✅ Latent Dirichlet Allocation (LDA)
-- ✅ Gibbs sampling
-- ✅ Variational inference
-- ✅ Matrix factorization
-- ✅ Logistic regression with MAP estimation
-
-**No deep learning or LLM components are used.**
-
-## ⚠️ Note
-
-This is a **starter codebase**. You will need to:
-
-1. Provide or download running Q&A data
-2. Train models on your data
-3. Fine-tune hyperparameters
-4. Extend expert templates in the mixture-of-experts model
-5. Add more sophisticated feature extraction for logistic regression
-
-## 📄 License
-
-This project is for educational purposes.
-
-## 🤝 Contributing
+## Contributing
 
 This is a course project. Extend and modify as needed for your specific requirements.
 
----
-
-**Built with probabilistic models only - no deep learning or LLMs.**
 
