@@ -26,18 +26,18 @@ The focus is on **semantic structure discovery and explainable advice generation
 
 ## Repository Structure
 
-├── data/ # Raw and processed data
-├── notebooks/ # Exploratory analysis and experiments
-├── src/ # Core implementation
-│ ├── data/ # Data processing
-│ ├── models/ # Probabilistic models
-│ ├── recommendation/ # Retrieval and advice logic
-│ ├── evaluation/ # Evaluation metrics
-│ └── pipeline/ # Step-by-step execution
-├── visualization/ # Visualization utilities
+.
+├── data/                 # Raw and processed data
+├── notebooks/            # Exploratory analysis and experiments
+├── src/                  # Core implementation
+│   ├── data/             # Data processing
+│   ├── models/           # Probabilistic models
+│   ├── recommendation/   # Retrieval and advice logic
+│   ├── evaluation/       # Evaluation metrics
+│   └── pipeline/         # Step-by-step execution
+├── visualization/        # Visualization utilities
 ├── requirements.txt
 └── README.md
-
 
 ---
 
@@ -126,5 +126,6 @@ Run the pipeline step by step:
 
 python run_pipeline_step_by_step.py
 
-
 Exploratory analyses and experiments are documented in the notebooks/ directory.
+
+```
