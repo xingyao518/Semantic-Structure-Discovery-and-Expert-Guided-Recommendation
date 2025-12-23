@@ -26,6 +26,7 @@ The focus is on **semantic structure discovery and explainable advice generation
 
 ## Repository Structure
 
+```text
 .
 ├── data/                 # Raw and processed data
 ├── notebooks/            # Exploratory analysis and experiments
@@ -38,6 +39,7 @@ The focus is on **semantic structure discovery and explainable advice generation
 ├── visualization/        # Visualization utilities
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
