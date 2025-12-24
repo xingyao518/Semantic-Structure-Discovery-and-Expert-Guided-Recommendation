@@ -27,7 +27,7 @@ The focus is on **semantic structure discovery and explainable advice generation
 ## Repository Structure
 
 ```text
-.
+
 ├── data/                 # Raw and processed data
 ├── notebooks/            # Exploratory analysis and experiments
 ├── src/                  # Core implementation
@@ -75,15 +75,6 @@ Visualization modules are provided to inspect topic structure, model behavior, a
 
 ---
 
-## Usage
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
-
----
 
 ## Methods Overview
 
