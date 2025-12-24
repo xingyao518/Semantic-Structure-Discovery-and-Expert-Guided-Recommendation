@@ -75,39 +75,6 @@ Visualization modules are provided to inspect topic structure, model behavior, a
 
 ---
 
-
-## Methods Overview
-
-- LDA provides low-dimensional semantic representations of text.
-- Topic mixtures condition expert selection in a Bayesian mixture-of-experts model.
-- Logistic regression with MAP estimation predicts risk-related categories.
-- Multiple retrieval strategies are compared for recommendation quality.
-
----
-
-## Pipeline
-
-1. Text preprocessing and labeling  
-2. Topic inference for queries  
-3. Risk category prediction  
-4. Similar case retrieval  
-5. Expert-guided advice generation  
-6. Quantitative and qualitative evaluation  
-
----
-
-## Evaluation
-
-The system is evaluated using:
-
-- **Relevance metrics** for retrieval quality  
-- **Compliance checks** for safety and constraint adherence  
-- **Qualitative scoring** for clarity, safety, and personalization  
-
-Visualization modules are provided to inspect topic structure, model behavior, and recommendation outcomes.
-
----
-
 ## Usage
 
 Install dependencies:
